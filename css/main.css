@@ -1,0 +1,22 @@
+#logo {
+    margin-top: 100px;
+}
+
+#parag {
+    font-size: 16px;
+    margin: 50px 0px;
+
+}
+
+
+.btn.btn-main{
+    border-radius: 0;
+    background-color: #1F6EF0;
+}
+
+#para2 {
+    text-decoration: none;
+    color: #1F6EF0;
+    margin-top: 30px;
+    display: block;
+}
